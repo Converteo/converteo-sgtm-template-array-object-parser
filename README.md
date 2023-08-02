@@ -36,8 +36,8 @@ ecommerce.item.0
 Returns :
 ```json
 {
-  "item_id": "SKU-456",
-  "item_name": "Red Cap",
-  "price": 15
+  "item_id": "SKU-123",
+  "item_name": "Tee Shirt",
+  "price": 12.90
 }
 ```
