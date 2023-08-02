@@ -1,7 +1,5 @@
 homepage: "https://converteo.com"
 documentation: "https://github.com/Converteo/converteo-sgtm-template-array-object-parser/blob/main/README.md"
 versions:
-  - sha: c472d1c0def0dac4563f8ef00718ef97e985c911
-    changeNotes: Initial commit
   - sha: b809ea55c2cbfac570fdb6cc0e13e53a68388762
     changeNotes: Add template.tpl
