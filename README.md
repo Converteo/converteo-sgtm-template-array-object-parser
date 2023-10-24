@@ -28,12 +28,13 @@ Enter the keys using the dot notation to get targeted data.
 
 Example :
 
-ecommerce.items.1.item_name 
-Returns : "Red Cap"
+**ecommerce.items.1.item_name** returns :
+```
+"Red Cap"
+```
 
 
-ecommerce.item.0 
-Returns :
+**ecommerce.item.0** returns :
 ```json
 {
   "item_id": "SKU-123",
